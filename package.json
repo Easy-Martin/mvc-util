@@ -1,10 +1,10 @@
 {
-  "name": "@huangjingjing/mvc",
+  "name": "mvc-util",
   "version": "0.0.3",
   "description": "create mvc project",
-  "main": "bin/mvc.js",
+  "main": "bin/create-app.js",
   "bin": {
-    "create-app": "bin/create-app.js"
+    "create-app": "node bin/create-app.js"
   },
   "author": "huangjingjing",
   "license": "ISC",
