@@ -4,7 +4,7 @@
   "description": "create mvc project",
   "main": "bin/create-app.js",
   "bin": {
-    "create-app": "node bin/create-app.js"
+    "create-app": "./bin/create-app.js"
   },
   "author": "huangjingjing",
   "license": "ISC",
