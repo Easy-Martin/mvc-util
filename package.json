@@ -1,6 +1,6 @@
 {
   "name": "mvc-util",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "create mvc project",
   "main": "bin/create-app.js",
   "bin": {
