@@ -1,6 +1,6 @@
 {
   "name": "@huangjingjing/mvc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "create mvc project",
   "main": "bin/mvc.js",
   "bin": {
