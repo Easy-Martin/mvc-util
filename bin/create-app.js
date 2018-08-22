@@ -68,7 +68,7 @@ const types = require('../config/template');
             fs.writeFileSync(fileName, result);
           }
           console.log(symbols.success, chalk.green(`项目初始化完成`));
-           console.log(chalk.blue(`cd ${name}`));
+          console.log(chalk.blue(`cd ${name}`));
           console.log(chalk.blue(`yarn / npm install`));
         }
       });
